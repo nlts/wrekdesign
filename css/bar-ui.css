@@ -15,8 +15,7 @@
  /* general font niceness? */
  font-smoothing: antialiased;
  text-rendering: optimizeLegibility;
- min-width: 20em;
- max-width: 30em;
+
  /* take out overflow if you want an absolutely-positioned playlist dropdown. */
  border-radius: 2px;
  overflow: hidden;
